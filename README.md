@@ -1,1 +1,1 @@
-# Data Science POCs' with python libraries such as numpy, pandas, matplotlib
+# Data Science POCs with python libraries such as numpy, pandas, matplotlib, 
